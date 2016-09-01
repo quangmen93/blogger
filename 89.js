@@ -94,5 +94,5 @@ if (password==pass1 || password==pass2 || password==pass3 || password==pass4 || 
 alert('Password Correct! Click OK to enter!');
 else
 {
-window.location="https://18javhay.blogspot.com/";
+window.location="https://sexjavhay.blogspot.com/";
 }
