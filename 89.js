@@ -14,5 +14,5 @@ if (password==pass1 || password==pass2)
 alert('Password Correct! Click OK to enter!');
 else
 {
-window.location="http://hienthieugia.blogspot.com/";
+window.location="https://sexjavhay.blogspot.com/";
 }
