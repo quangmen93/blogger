@@ -8,7 +8,7 @@ var pass6="Jun Aizawa";
 var pass7="Tsuna Kimura";
 var pass8="Yui Nishikawa";
 var pass9="Yumi Maeda";
-var pass9="1";
+var pass10="1";
 password=prompt('Please enter your password to view this page!','');
 if (password==pass1 || password==pass2)
 alert('Password Correct! Click OK to enter!');
