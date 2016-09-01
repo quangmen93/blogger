@@ -10,7 +10,7 @@ var pass8="Yui Nishikawa";
 var pass9="Yumi Maeda";
 var pass10="1";
 password=prompt('Please enter your password to view this page!','');
-if (password==pass1 || password==pass2)
+if (password==pass1 || password==pass2 || password==pass3 || password==pass4 || password==pass5 || password==pass6 || password==pass7 || password==pass8 || password==pass9 || password==pass10)
 alert('Password Correct! Click OK to enter!');
 else
 {
