@@ -9,9 +9,9 @@ var pass7="Tsuna Kimura";
 var pass8="Yui Nishikawa";
 var pass9="Yumi Maeda";
 var pass10="1";
-password=prompt('Please enter your password to view this page!','');
+password=prompt('Đây là khu vực giành riêng cho BQT. Vui lòng truy cập vào trang https://anhjavdep.blogspot.com/ để tìm phim!','');
 if (password==pass1 || password==pass2 || password==pass3 || password==pass4 || password==pass5 || password==pass6 || password==pass7 || password==pass8 || password==pass9 || password==pass10)
-alert('Password Correct! Click OK to enter!');
+alert('Mật khẩu sai! Bấm Ok để chúng tôi đưa bạn về trang https://anhjavdep.blogspot.com/');
 else
 {
 window.location="https://anhjavdep.blogspot.com/";
