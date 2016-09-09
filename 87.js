@@ -1,5 +1,5 @@
 var password;
-var pass1="Kirara Asuka";
+var pass1="nguyenquangmenhoangnhankhoi ";
 var pass2="Akiho Yoshizawa";
 var pass3="Ami Ishihara";
 var pass4="Eri Hosaka";
@@ -14,5 +14,5 @@ if (password==pass1 || password==pass2 || password==pass3 || password==pass4 || 
 alert('Password Correct! Click OK to enter!');
 else
 {
-window.location="https://sexjavhay.blogspot.com/";
+window.location="https://anhjavdep.blogspot.com/";
 }
