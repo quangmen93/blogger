@@ -1,6 +1,6 @@
 var password;
 var pass1="nguyenquangmenhoangnhankhoi m1t2t3c4q5 _+_ nguyenthihongcuong_nguyenthihongthao=mguyentantu ";
-var pass2="Akiho Yoshizawa";
+var pass2="nguyenquangmenhoangnhankhoi ";
 var pass3="Ami Ishihara";
 var pass4="Eri Hosaka";
 var pass5="Hara Chihiro (Leila Aizaki)";
