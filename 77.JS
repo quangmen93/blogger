@@ -57,20 +57,3 @@ jQuery(document).ready(function(){
 	jQuery(window).load(function(){
 		setTimeout("_titleSllipsis()",1000);
 	});
-	
-	//Facebook SDK
-	jQuery('body').append('<div id="fb-root"></div>');
-	_loadFbSDk=function(){
-		(function(d, s, id) {
-		  var js, fjs = d.getElementsByTagName(s)[0];
-		  if (d.getElementById(id)) return;
-		  js = d.createElement(s); js.id = id;
-		  js.src = "http://connect.facebook.net/en_US/all.js#xfbml=1";
-		  fjs.parentNode.insertBefore(js, fjs);
-		}(document, 'script', 'facebook-jssdk'));
-	}
-	jQuery(window).load(function(){
-		setTimeout("_loadFbSDk()",100);
-	});
-	
-});
