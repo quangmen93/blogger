@@ -5,5 +5,5 @@ if (nguyenquangmenhoangnhankhoinguyenquangmenhoangnhankhoi_m1t2t3c4q5==nguyenqua
 alert('Mật khẩu đúng! Nếu bạn không thuộc bộ phận BQT thì việc truy cập này là trái với qui định của trang, vui lòng truy cập vào trang www.javhay.info. Không nên cố gắng truy cập vào trang chủ hay các trang khác của https://sexjavhay.blogspot.com/!');
 else
 {
-window.location="www.javhay.info";
+window.location="http://www.javhay.info";
 }
