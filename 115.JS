@@ -1,4 +1,4 @@
-﻿function ancMedia() {
+function ancMedia() {
   url = window.location.href,
   home = ancplayer.load.site, 
   server_i = [0];
@@ -164,7 +164,7 @@ this.fu("anc_pl", obj)
 var DBOj = function(x){	
 	return obj = [
 	// 0 - Diver - Gdata
-	'<div id="logoplayer"></div><iframe id="playerayer"  src="//tool.codeseo.net/code/player.php?url=https://drive.google.com/file/'+x+'/preview?autoplay='+eauto+'" width="'+width+'" height="'+height+'" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" scrolling="no" frameborder="0"/></iframe>',
+	'<div id="logoplayer"></div><iframe id="playerayer"  src="//player.trunguit.net/play?url=https://drive.google.com/file/d/'+x+'/preview?autoplay='+eauto+'" width="'+width+'" height="'+height+'" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" scrolling="no" frameborder="0"/></iframe>',
 	// 1 - Zing html5 - Goo.gl
 	'<video id="playerayer" class="video-js vjs-default-skin" data-setup="{&quot;controls&quot;: true, &quot;autoplay&quot;: '+auto+', &quot;preload&quot;: &quot;auto&quot;}" width="'+width+'" height="'+height+'" poster="'+imgload+'" ><source src="'+x+'" type="video/mp4"/></video>'
 	];	
